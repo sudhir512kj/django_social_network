@@ -1,1 +1,2 @@
-# django_social_network a website for social network among developers.
+# django_social_network 
+a website for social network among developers.
