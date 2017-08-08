@@ -1,0 +1,4 @@
+1. python manage.py runserver
+2. ./manage.py runserver
+3. python -m django runserver
+4. django-admin runserver
